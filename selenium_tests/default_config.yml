@@ -1,0 +1,9 @@
+chrome_options:
+  headless: false
+  window_size: '1920,1080'
+
+admin_auth:
+  login: 'test2'
+  password: 'Trust#@$456'
+
+url: 'https://the-internet.herokuapp.com'
