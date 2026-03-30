@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e053405b-cb92-457c-9018-2699c0161663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/selenium_tests/.gitignore" afterDir="false" />
+    <list default="true" id="e053405b-cb92-457c-9018-2699c0161663" name="Changes" comment="Initial commit: UI automation framework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_tests/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_tests/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gulayim-qa"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gulayim-qa/ui-automation-framework",
+    "accountId": "2f74941b-e071-41f6-9f7a-e08a8dbd4fdb"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -205,6 +219,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726484750308</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit: UI automation framework">
+      <option name="closed" value="true" />
+      <created>1774862215505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774862215505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit: UI automation framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: UI automation framework" />
   </component>
 </project>
