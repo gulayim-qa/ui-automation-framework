@@ -1,15 +1,24 @@
 # UI Automation Framework
 
-Автоматизированный фреймворк для тестирования веб-приложений.
+Фреймворк для автоматизации UI-тестирования веб-приложений.  
+Собран для повседневной работы: удобно добавлять новые тесты, переиспользовать элементы и быстро находить проблемы.
 
-## 🛠 Стек
-- Python
-- Selenium WebDriver
-- Pytest
-- WebDriverManager
+## 🛠 Используемый стек
+- Python  
+- Selenium WebDriver  
+- Pytest  
+- webdriver-manager  
 
 ## 📁 Структура проекта
-- selenium_tests/
-  - driver — управление браузером
-  - elements — Page Object элементы
-  - tests — тесты
+- `selenium_tests/`
+  - `driver` — инициализация и управление браузером  
+  - `elements` — базовые элементы (Page Object)  
+  - `tests` — тестовые сценарии  
+  - `utils` — вспомогательные утилиты (логирование, конфиги)  
+- `configs` — конфигурационные файлы  
+
+## 🚀 Запуск
+
+```bash
+pip install -r requirements.txt
+pytest
